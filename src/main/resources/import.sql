@@ -1,0 +1,12 @@
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Ana Beatriz Souza', '10482937401', 4200.0, TIMESTAMP WITH TIME ZONE '1991-03-14T10:00:00Z', 1);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Carlos Eduardo Lima', '21948573612', 7850.0, TIMESTAMP WITH TIME ZONE '1986-08-22T14:30:00Z', 2);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Fernanda Oliveira', '32859401723', 5300.0, TIMESTAMP WITH TIME ZONE '1995-11-05T08:15:00Z', 0);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Gabriel Henrique Alves', '43760512834', 9100.0, TIMESTAMP WITH TIME ZONE '1983-01-19T12:00:00Z', 3);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Juliana Martins Rocha', '54671623945', 3600.0, TIMESTAMP WITH TIME ZONE '1998-05-27T16:45:00Z', 1);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Lucas Gabriel Ferreira', '65582734056', 6400.0, TIMESTAMP WITH TIME ZONE '1990-09-10T09:00:00Z', 2);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Mariana Costa Pereira', '76493845167', 8200.0, TIMESTAMP WITH TIME ZONE '1988-12-03T11:20:00Z', 1);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Pedro Henrique Santos', '87304956278', 4950.0, TIMESTAMP WITH TIME ZONE '1993-04-18T15:10:00Z', 0);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Rafael Augusto Mendes', '98215067389', 11200.0, TIMESTAMP WITH TIME ZONE '1981-07-29T13:00:00Z', 2);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Camila Ribeiro Gomes', '19283746509', 5750.0, TIMESTAMP WITH TIME ZONE '1996-02-11T07:40:00Z', 1);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Thiago Vinícius Barbosa', '28394857610', 3900.0, TIMESTAMP WITH TIME ZONE '1999-10-25T17:00:00Z', 0);
+INSERT INTO client(name, cpf, income, birth_Date, children) VALUES ('Beatriz Helena Cardoso', '37405968721', 7100.0, TIMESTAMP WITH TIME ZONE '1989-06-08T10:05:00Z', 2);
